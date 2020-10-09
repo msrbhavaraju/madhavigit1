@@ -1,2 +1,4 @@
 log.txt
 dir2
+#to ignore all text files we can use
+#*.txt
